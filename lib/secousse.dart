@@ -1,3 +1,3 @@
 library secousse;
 
-export 'src/button.dart';
+export 'src/secousse.dart';
